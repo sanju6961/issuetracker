@@ -1,2 +1,3 @@
-# issue-tracker
-A coding ninja project 
+Issue-tracker created by sanjeev kumar
+a coding ninja project
+
